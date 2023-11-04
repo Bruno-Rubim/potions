@@ -47,12 +47,12 @@ CREATE TABLE efeitos (
 
 INSERT INTO efeitos (nome, descricao) VALUES ('Regeneração', 'Rapidamente recupera a saúde de quem a consumir, o efeito dura 150 segundos com total intensidade');
 INSERT INTO efeitos (nome, descricao) VALUES ('Veneno', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
-INSERT INTO efeitos (nome, descricao) VALUES ('', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Velocidade', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Tontura', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Paralizia', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Queda Leve', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Velocidade', '');
+INSERT INTO efeitos (nome, descricao) VALUES ('Estamina', '');
 INSERT INTO efeitos (nome, descricao) VALUES ('', '');
 INSERT INTO efeitos (nome, descricao) VALUES ('', '');
 
